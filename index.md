@@ -1,4 +1,4 @@
-# **Portfolio**
+# **Robotics**
 
 **This page contains brief descriptions and code snippits of past projects. Click on the project for the full code and a more in-depth explanation!**
 <br><br/>
