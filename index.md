@@ -22,5 +22,3 @@ A program written in MATLAB that has a user click to create points to create a p
 [![](assets/images/points.PNG)](https://www.youtube.com/)
 
 <br><br/>
-
-## **3.**
