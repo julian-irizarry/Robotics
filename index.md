@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+# **Portfolio**
 
-You can use the [editor on GitHub](https://github.com/julian-irizarry/Robotics/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+**This page contains brief descriptions and code snippits of past projects. Click on the project for the full code and a more in-depth explanation!**
+<br><br/>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## **1.** [PID/PD Controller for a Single Arm Robot](https://julian-irizarry.github.io/Robotics/PID)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This project compared PID and PD controllers with how they affected moving a simulated arm to a desired point. The project was done in MATLAB. The only function that was used was ODE45 to solve the differential equation for the controllers.  
 
-```markdown
-Syntax highlighted code block
+<center><small><i>Click on the image below to watch the simulation.</i></small></center>
 
-# Header 1
-## Header 2
-### Header 3
+[![](assets/images/pid.PNG)](https://www.youtube.com/)
+<br><br/>
 
-- Bulleted
-- List
+## **2.** [Inverse Kinematics of a Two-Joint Arm to Follow a User Defined Path](https://julian-irizarry.github.io/Robotics/kinematics)
 
-1. Numbered
-2. List
+A program written in MATLAB that has a user click to create points to create a path for a simulated arm. The points are interpolated into a smooth curve that the arm navigates using inverse kinematics. No additional packages were used for the animation of the arm or the calculations of the path of the arm.
 
-**Bold** and _Italic_ and `Code` text
+<center><small><i>Click on the image below to watch the simulation.</i></small></center>
 
-[Link](url) and ![Image](src)
-```
+[![](assets/images/points.PNG)](https://www.youtube.com/)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+<br><br/>
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/julian-irizarry/Robotics/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## **3.**
