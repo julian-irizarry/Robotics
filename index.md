@@ -4,7 +4,7 @@
 <br><br/>
 
 
-## **1.** [Inverse Kinematics of a Two-Joint Arm to Follow a User Defined Path](https://julian-irizarry.github.io/Robotics/kinematics)
+## **1.** [Inverse Kinematics of a Two-Joint Arm to Follow a User Defined Path](https://github.com/julian-irizarry/Robotics/tree/main/inversekinematics)
 
 A program written in MATLAB that has a user click to create points to create a path for a simulated arm. The points are interpolated into a smooth curve that the arm navigates using inverse kinematics. No additional packages were used for the animation of the arm or the calculations of the path of the arm.
 
@@ -16,7 +16,7 @@ A program written in MATLAB that has a user click to create points to create a p
 
 
 
-## **2.** [PID/PD Controller for a Single Arm Robot](https://julian-irizarry.github.io/Robotics/PID)
+## **2.** [PID/PD Controller for a Single Arm Robot](https://github.com/julian-irizarry/Robotics/tree/main/pid)
 
 This project compared PID and PD controllers with how they affected moving a simulated arm to a desired point. The project was done in MATLAB. The only function that was used was ODE45 to solve the differential equation for the controllers.  
 
@@ -26,7 +26,7 @@ This project compared PID and PD controllers with how they affected moving a sim
 <br><br/>
 
 
-## **3.** [Forward Kinematics](https://julian-irizarry.github.io/Robotics/PID)
+## **3.** [Forward Kinematics](https://github.com/julian-irizarry/Robotics/tree/main/fowardkinematics)
 
 This project uses forward kinematics to simulate the movement of a robot arm that consists of a joint that can rotate 360 degrees, a joint that can rotate 180 degrees, and a prismatic joint that can extend 2 units. All of the joints' angles are entered by the user. 
 
