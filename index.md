@@ -22,7 +22,7 @@ This project compared PID and PD controllers with how they affected moving a sim
 
 <center><small><i>Click on the image below to watch the simulation.</i></small></center>
 
-[![](assets/images/pid.PNG)](https://www.youtube.com/watch?v=sfjI8Zmbdj4)
+ [![](assets/images/pid.PNG)](https://www.youtube.com/watch?v=sfjI8Zmbdj4)
 <br><br/>
 
 
