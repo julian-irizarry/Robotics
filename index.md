@@ -36,6 +36,7 @@ This project uses forward kinematics to simulate the movement of a robot arm tha
 
 <center><small><i>Click on the image below to watch the simulation.</i></small></center>
 
-![](assets/images/forward.PNG)
-[![foward](assets/images/forward.PNG)](https://www.youtube.com/watch?v=Z1fzC381ir0)
+[![foward](assets/images/forward2.PNG)](https://www.youtube.com/watch?v=Z1fzC381ir0)
+
+Hello
 <br><br/>
